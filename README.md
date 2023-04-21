@@ -1,7 +1,7 @@
 <div style="display:grid;gap:1rem;grid-template-columns:auto auto;align-items:center;">
-    <picture>
+    <div>
         <img src="https://roquedevs.com.br/avatar.png" alt="Israel Roque - Anime Avatar" title="Hoy es una nueva oportunidad, no la desperdicies." style="width:100%;margin-top: -5em;">
-    </picture>
+    </div>
     <div style="padding: 1rem 0;">
         <span style="font: normal 18px/28px monospace;">✨ Welcome to my humble GitHub abode.</span>
         <h1 style="font: normal 48px/56px fantasy;">👋 Greetings, I'm Israel, a software developer with a passion for clean and functional code.</h1>
@@ -18,6 +18,14 @@
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" title="CSS - Cascading Style Sheet">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" title="ECMAScript Programming Language">
     </div>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+    </a>
+    <a href=""><img width="100%" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" alt="Anurag's GitHub stats" title="Anurag's GitHub stats"></a>
+    
 </div>
 
 <div style="padding: 1rem 0;">
