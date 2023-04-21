@@ -18,13 +18,13 @@
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" title="CSS - Cascading Style Sheet">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" title="ECMAScript Programming Language">
     </div>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+    <a href="https://github.com/ribeiroroqueisrael/ribeiroroqueisrael">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ribeiroroqueisrael&repo=ribeiroroqueisrael" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+    <a href="https://github.com/ribeiroroqueisrael/ribeiroroqueisrael">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribeiroroqueisrael&layout=compact" />
     </a>
-    <a href=""><img width="100%" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" alt="Anurag's GitHub stats" title="Anurag's GitHub stats"></a>
+    <a href=""><img width="100%" src="https://github-readme-stats.vercel.app/api?username=ribeiroroqueisrael&show_icons=true&theme=radical" alt="Anurag's GitHub stats" title="Anurag's GitHub stats"></a>
     
 </div>
 
